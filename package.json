@@ -1,7 +1,18 @@
 {
+  {
+  "name": "example-app",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  }
+}
   "name": "spikeybot-discord",
   "version": "1.22.1",
   "description": "SpikeyBot",
+  "engines": {
+    "node": "18.x"
+    }
   "homepage": "https://www.spikeybot.com/",
   "bugs": {
     "email": "bugs@spikeybot.com"
