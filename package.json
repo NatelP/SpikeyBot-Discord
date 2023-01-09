@@ -5,7 +5,6 @@
   "description": "SpikeyBot",
   "engines": {
     "node": "18.x"
-    }
   "homepage": "https://www.spikeybot.com/",
   "bugs": {
     "email": "bugs@spikeybot.com"
